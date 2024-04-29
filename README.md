@@ -1,1 +1,1 @@
-# JavaScript-Exercises
+# practice langs
